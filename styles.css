@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+#history {
+    background-image: url('supra.jpg'); 
+    background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding: 2rem;
+}
+
+#engine-life {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+}
+
+#2jz {
+    background-image: url('car.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 2rem;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
